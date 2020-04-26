@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Ahicyllop here, I hope I can enjoy this code world!
